@@ -39,7 +39,7 @@ async function fivedaysforecast(city) {
 
     const forecastContainer = document.querySelector(".forecast");
 
-    forecastContainer.innerHTML = "<h1>Next Five Days Forecast</h1>"; // Clear previous forecast data
+    forecastContainer.innerHTML = ""; // Clear previous forecast data
 
     const currentDate = new Date();
     const currentDayIndex = currentDate.getDay();
