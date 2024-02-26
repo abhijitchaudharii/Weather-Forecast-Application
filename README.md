@@ -2,6 +2,7 @@
 # Weather Forecast Application
 
 The Weather Forecast Application is a web-based tool that provides users with up-to-date weather information for different locations. Developed using HTML, CSS, JavaScript, and the OpenWeather API, this application offers the following functionalities:
+![Weather_Forecast_Ui](https://github.com/abhijitchaudharii/Weather-Forecast-Application/assets/79962459/ec513c50-1d3c-4785-8975-6880a30709d5)
 
 ### 1.Current Weather Display:
 Users can enter the name of a city in the search bar.
