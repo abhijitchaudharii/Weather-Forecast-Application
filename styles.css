@@ -255,8 +255,8 @@ footer {
     /* Search Bar Style Code */
     .search {
         top: 0;
-        left: 25%;
-        
+        left: 20%;
+
     }
     .search-bar{
         width: 160px;
@@ -298,25 +298,30 @@ footer {
         font-weight: 600; 
     }
     .footer {
-        padding-top: 20px;  
+        padding-top: 20px;
+        align-items: center;
+        justify-content: center;
+        margin-left: 10px;
+        margin-right: 10px; 
     }
     .col{
-        padding-right: 30px;
-        padding-left: 30px;
+        padding-right: 10px;
+        padding-left: 10px;
+        
     }
     .col img{
-        width: 60px;
-        height: 60px;
+        width: 40px;
+        height: 40px;
     }
     .col p{
-        font-size: 22px;
+        font-size: 18px;
     }
 
 
     /* Next Seven Days Forecast */
 
     .forecast-head h1{
-        top: 30%;
+        top: 25%;
         left: 10%;
         font-size: 52px;
         font-weight: bold;
@@ -364,7 +369,7 @@ footer {
         align-items: center;
         top: 0;
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
         gap: 20px;
         margin-left: 10px;
     }
@@ -374,8 +379,9 @@ footer {
         position: relative;
         
     }
+
     .footer-section h2{
-        font-size: 14px;
+        font-size: 18px;
        top: 10px;
        text-align: left;
        margin-bottom: 30px;
@@ -385,7 +391,7 @@ footer {
         text-align: left;
     }
     .footer-section ul li{
-        font-size: 12px;
+        font-size: 14px;
         text-align: left;
     }
 
